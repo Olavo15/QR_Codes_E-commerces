@@ -1,7 +1,7 @@
 {
   "name": "qr_codes_e-commerces",
   "version": "1.0.0",
-  "description": "",
+  "description": "Kit de ultilidades para e-commerces",
   "main": "index.js",
   "type": "module",
   "scripts": {
